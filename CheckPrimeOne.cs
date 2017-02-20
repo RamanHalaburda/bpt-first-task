@@ -4,7 +4,7 @@
  * My preferred method.
  * Method with external functions and check division of number by three primes top down.
  * Only 1-2 iteration of the loop
- * And loop includes 4 conditional operators, not all of which is checks for one iteration.
+ * And loop includes 4 conditional operators, not all of which are checks for one iteration.
  */
 
 namespace ByteProtectTest1
